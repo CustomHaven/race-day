@@ -30,7 +30,7 @@ HTML - to render the page
 
 ## Launch
 
-We have included a [html page]() when you land on the page you will see a prompt asking for your name. Type your name in. Then an alert asking if you are going to become a warewolf.
+We have included a [html page](https://customhaven.github.io/race-day/) when you land on the page you will see a prompt asking for your name. Type your name in. Then an alert asking if you are going to become a warewolf.
 
 ---
 
